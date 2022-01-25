@@ -11,7 +11,7 @@ switch(Math.floor(Math.random() * 6)){
     case 4:
         console.log("You share so much DNA with bananas!");
         break;
-    case 4:
+    case 5:
         console.log("Most white cats have blue eyes!");
         break;
 }
