@@ -1,4 +1,4 @@
-switch(Math.floor(Math.random() * 3)){
+switch(Math.floor(Math.random() * 6)){
     case 0:
         console.log("Firetrucks are water trucks!");
         break;
@@ -10,5 +10,8 @@ switch(Math.floor(Math.random() * 3)){
         break;
     case 4:
         console.log("You share so much DNA with bananas!");
+        break;
+    case 4:
+        console.log("Most white cats have blue eyes!");
         break;
 }
